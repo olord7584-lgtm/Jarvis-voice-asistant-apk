@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Assistant",
+  "description": "Intelligent voice-command AI assistant with futuristic HUD, speech recognition, and Gemini intelligence",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
